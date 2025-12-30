@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Corner accents -->
+  <path d="M2 2 L2 8 M2 2 L8 2" stroke="#57534e" stroke-width="2.5" fill="none" stroke-linecap="square"/>
+  <path d="M30 2 L30 8 M30 2 L24 2" stroke="#57534e" stroke-width="2.5" fill="none" stroke-linecap="square"/>
+  <path d="M2 30 L2 24 M2 30 L8 30" stroke="#57534e" stroke-width="2.5" fill="none" stroke-linecap="square"/>
+  <path d="M30 30 L30 24 M30 30 L24 30" stroke="#57534e" stroke-width="2.5" fill="none" stroke-linecap="square"/>
+
+  <!-- Letter A -->
+  <text x="16" y="23" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="500" fill="#1c1917" text-anchor="middle">A</text>
+</svg>
